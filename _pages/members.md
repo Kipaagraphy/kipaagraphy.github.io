@@ -59,3 +59,18 @@ nav_rank: 2
 </p>
     {% endfor %}
 {% endfor %}
+
+<h3 id="general-members">General members</h3>
+<ol>
+<li>Padma Sundar Shakya -  Past President</li>
+<li>Jayaram Prajapati - Past Secretary</li>
+<li>Achut Prajapati - Former President</li>
+<li>Kiran Dhukuchhu</li>
+<li>Bal Mukunda Prajapati</li>
+<li>Surendra Prajapati</li>
+<li>Hari Sundar </li>
+<li>RadheShyam Prajapati</li>
+<li>Padam Buddhacharya</li>
+<li>Rabindra Kiju</li>
+<li>Sujit Prajapati</li>
+</ol>
