@@ -1,10 +1,10 @@
 ---
 layout: about
 inline: false
-group: Advisors
-group_rank: 1
-team_frontpage: false
-rank: 
+group: Executive Committee
+group_rank: 2
+team_frontpage: true
+rank: 1
 
 title: Suresh Raj Shakya
 description: President
@@ -25,5 +25,6 @@ profile:
     address: >
         Bhaktapur
 ---
+
 ........
 details

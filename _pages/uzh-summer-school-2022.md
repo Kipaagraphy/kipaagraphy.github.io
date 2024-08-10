@@ -1,9 +1,10 @@
 ---
 layout: page
-permalink: /uzh-summer-school-2022
-title: UZH Summer School 2022
-description: Course contents of the cool programming lectures at the University Zurich Summer School 2022.
-nav: false
+permalink: /saparu_competition
+title: Saparu Photo Competition 2081
+description: 
+nav: true
+nav_rank: 3
 ---
 
 ## Programming Languages - A Journey into Abstraction and Composition

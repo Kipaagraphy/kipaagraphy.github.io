@@ -12,12 +12,12 @@ lastname: Rai
 publications: #'author^=*Eskandani'
 
 teaser: >
-    PhD student at ....
+    Current Advisory Board Member
 
 profile:
     name: Mr Sarad Rai
     align: right
-    image: 
+    image: sarad_rai.jpg
     role: Advisor
     email: 
     twitter: 

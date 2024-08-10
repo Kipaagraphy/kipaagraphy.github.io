@@ -12,12 +12,12 @@ lastname: Prajapati
 publications: #'author^=*Eskandani'
 
 teaser: >
-    chairman at Bhaktapur Bachat Sacoos
+    Current Advisory Board Member
 
 profile:
     name: Mr Bala Ram Prajapati
     align: right
-    image: balkrishna_prajapati.jpg
+    image: balaram_prajapati.jpg
     role: Advisor
     email: 
     twitter: 
