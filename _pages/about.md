@@ -19,10 +19,10 @@ profile:
         Nepal
 
 news: true # includes a list of news items
-projects: true # includes a tile list of projects
-supports: true # includes a tile list of supports
+projects: false # includes a tile list of projects
+supports: false # includes a tile list of supports
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 <!-- > <i class="fas fa-quote-left"></i>

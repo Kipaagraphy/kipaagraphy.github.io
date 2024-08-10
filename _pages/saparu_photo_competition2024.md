@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /saparu_competition
+permalink: /saparu_competition2024
 title: Saparu Photo Competition 2081
 description: 
 nav: true

@@ -1,21 +1,23 @@
 ---
 layout: about
 inline: false
-title: "MetaverCE"
-description: "MetaverCE: A demonstration of Cloud Engineering in the Metaverse."
-rank: 10
+title: "Saparu Photo Exhibition 2081"
+description: " Saparu Photo Competition 2081"
+rank: 1
 
 publications: false
 
 img: projects/metaverce/logo.svg
 img_contains_title: true
+relative_url: /saparu_competition2024
 
 profile:
     image: projects/metaverce/logo.svg
     address: >
+    relative_url: /saparu_competition2024
 ---
 
-### Cloud Engineering in the Metaverse
+<!-- ### Cloud Engineering in the Metaverse
 
 <cite>Boosting the Digital Transformation through Immersive Collaboration</cite>
 
@@ -69,4 +71,4 @@ MetaverCE can be experienced daily at the Metaverse exhibits of the [Institute o
 
 * May 2023 at the [Metaverse Discovery Grid](https://www.metaverse-hsg.ch/){: target="_blank"} at [SQUARE (University of St. Gallen)](https://www.hsg-square.ch/en/){: target="_blank"}.
 * October 2023 at the [Metaverse Exhibit](https://www.metaverse-hsg.ch/){: target="_blank"} at the [Gottlieb Duttweiler Institute in Zürich](https://gdi.ch/en){: target="_blank"}.
-* November 2023 at the [Metaverse Discovery Grid](https://www.metaverse-hsg.ch/){: target="_blank"} at [SQUARE (University of St. Gallen)](https://www.hsg-square.ch/en/){: target="_blank"}.
+* November 2023 at the [Metaverse Discovery Grid](https://www.metaverse-hsg.ch/){: target="_blank"} at [SQUARE (University of St. Gallen)](https://www.hsg-square.ch/en/){: target="_blank"}. -->
