@@ -37,7 +37,7 @@ PARTICIPANTS RETAIN THE COPYRIGHT FOR ALL SUBMITTED ENTRIES
 
 - Participants may submit a minimum of 1 and a maximum of 5 images.
 
-- Entries must be captured between 3rd Bhadra 2081 (19th August 2024) and 10th Bhadra 2081 (26th August 2024).
+- Entries must be captured between 3rd Bhadra 2081 (19th August 2024) and 10th Bhadra 2081 (26th August 2024). This includes all the activites from Janai Purnima to ShreeKrishna Janmastami.
 
 - Entries should be captured within the boundaries of Bhaktapur Municipality
 
@@ -100,9 +100,7 @@ Kipaagraphy Bhaktapur reserves the right, in its sole discretion, to disqualify 
 
 7. You must be a citizen of Nepal.
 
-8. Entries that have previously won awards in other contests are not eligible for this competition and will be disqualified if identified.
-
-9. Captions for each entry are optional but recommended.
+8. Captions for each entry are optional but recommended.
 
 Digital Image Entries Specs
 
