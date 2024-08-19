@@ -39,7 +39,7 @@ PARTICIPANTS RETAIN THE COPYRIGHT FOR ALL SUBMITTED ENTRIES
 
 - Entries must be captured between 3rd Bhadra 2081 (19th August 2024) and 10th Bhadra 2081 (26th August 2024).
 
-- Entries should be captured with the area bounded by Bhaktapur Municipality
+- Entries should be captured within the boundaries of Bhaktapur Municipality
 
 - The competition is open to all Nepali photographers, both professional and amateur.
 
@@ -80,19 +80,29 @@ PARTICIPANTS RETAIN THE COPYRIGHT FOR ALL SUBMITTED ENTRIES
 
 Kipaagraphy Bhaktapur reserves the right, in its sole discretion, to disqualify and remove any entry that does not comply with the following requirements. You warrant and represent, in respect of each entry submitted by You (“Entry”), as follows:
 
-1. You are the sole owner and author of each Entry (you took the photo)
+1. You are the sole owner and author of each submitted entry (i.e., you took the photo).
 
-2. The image presented for judging must be 100% photographic in origin, generally this means using a camera. The use of Ai generated images is not allowed..they are not photographs taken by you and are therefore not allowed.
+2. The image presented for judging must be 100% photographic in origin, meaning it must be captured using a camera. AI-generated images are not permitted, as they do not qualify as photographs taken by you.
 
-3. Each entry must not contain any personally identifiable information, such as watermarks or text overlays.
+3. The photograph must not be manipulated in a way that alters the original content. This includes:
 
-4. The content of each entry must not include anything that could be considered a criminal offense, cause civil liability, or otherwise violate the law.
+   - No introduction of elements that were not present in the original scene.
 
-5. You are a citizen of Nepal.
+   - No removal of elements that were present in the original scene.
 
-6. Entries that have previously won awards in other contests are not eligible for this competition and will be disqualified if identified.
+   - No combining of multiple images to create a single composite image.
 
-7. Captions for each entry are optional but recommended.
+4. Basic adjustments such as cropping, exposure correction, color correction, and sharpening are allowed, as long as they do not distort the integrity of the original image.
+
+5. Each entry must not contain any personally identifiable information, such as watermarks or text overlays.
+
+6. The content of each entry must not include anything that could be considered a criminal offense, cause civil liability, or otherwise violate the law.
+
+7. You must be a citizen of Nepal.
+
+8. Entries that have previously won awards in other contests are not eligible for this competition and will be disqualified if identified.
+
+9. Captions for each entry are optional but recommended.
 
 Digital Image Entries Specs
 
