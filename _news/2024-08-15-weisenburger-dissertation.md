@@ -6,4 +6,4 @@ inline: true
 
 Kipaagraphy Bhaktapur is organizing a photo competition named: Saparu Photo Competition as a part of celebration of 185th World Photography Day.
 
-[Learn more about Saparu Photo Competition]({{ '/saparu_competition2024' | relative_url }})
+[Learn more about Saparu Photo Competition]({{ '/saparu_competition2081' | relative_url }})
